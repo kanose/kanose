@@ -1,5 +1,5 @@
 # kanose
-
+physique théorie-unifiée temps-membrane cosmologie
 Résumé
 Ce dépôt contient des illustrations et un document principal intitulé « lois du temps final.pdf ». Le dépôt est pour l'instant minimal ; ce README précise le contenu, la licence et les prochaines étapes.
 
